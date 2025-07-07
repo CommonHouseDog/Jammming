@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Welcome to my Jammming Portfolio Project!
+
+This app is all about building a React application that utilizes the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account!
